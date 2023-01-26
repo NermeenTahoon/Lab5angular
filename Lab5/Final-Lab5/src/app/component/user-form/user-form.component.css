@@ -1,0 +1,13 @@
+.formuser{
+   margin-bottom: 200px;
+}
+.container{
+    background-color:#f2e0f4;
+}
+.submit{
+    background-color: #c023c9;
+    color: black;
+}
+.submit:hover{
+    background-color: #ad55b0;
+}

@@ -1,0 +1,25 @@
+.footer{
+    background-color: #b447ba;
+    color:white;
+}
+#footer-brand{
+    font-size: 2rem;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-decoration: none;
+}
+h5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.footer p{
+    margin: 0;
+}
+.fa-brands{
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding-right: 10px;
+    margin-top: 5px;
+}
+.fa-brands:hover{
+    color: #b114b9;
+}

@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "nermeen",
+      "email": "nemo@n",
+      "password": "nermeeeeeen111"
+    },
+    {
+      "id": "2",
+      "name": "aya",
+      "email": "aya@n",
+      "password": "aya111"
+    },
+    {
+      "id": "3",
+      "name": "narmin",
+      "email": "nermin@n",
+      "password": "nerminnn"
+    },
+    {
+      "id": "4",
+      "name": "ahmed",
+      "email": "ahm@n",
+      "password": "ahmed44"
+    },
+    {
+      "id": "6",
+      "name": "salah",
+      "email": "sala@n",
+      "password": "salllah22"
+    },
+    {
+      "id": "7",
+      "name": "tamer",
+      "email": "temo@h",
+      "password": "tamora33"
+    }
+  ]
+}
